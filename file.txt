@@ -1,2 +1,2 @@
 "Hello to all" 
-"welcome"
+"welcome to all"
